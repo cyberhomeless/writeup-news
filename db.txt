@@ -11915,3 +11915,15 @@ https://www.randorisec.fr/yet-another-bug-netfilter/
 https://hatsfinance.medium.com/welcome-quidli-a479cb0ee449
 https://blog.syss.com/posts/abusing-ms-teams-direct-routing/
 https://www.graplsecurity.com/post/attacking-firecracker
+https://thehackermachine.medium.com/blind-sql-injection-api-soap-c099cd4c5d11
+https://infosecwriteups.com/how-to-prevent-more-than-200-million-users-from-using-google-services-136b3b8e221f
+https://medium.com/@nynan/how-i-didnt-get-an-rce-in-a-200-billion-company-bug-bounty-377afb2fb4ec
+https://infosecwriteups.com/detecting-log4j-its-remediation-58ab3a59c865
+https://thebigbadwo1f.medium.com/what-are-big-bounties-and-why-are-they-important-bbebbacd0fb2
+https://rashahacks.com/privacy-violation-in-chat-system-report-writeup-980b39748530?gi=dc53c2c2b9f7
+https://quickswap-layer2.medium.com/100k-bug-bounty-for-quickswaps-v3-beta-dragons-eat-bugs-b1eeebff9ccc
+https://hackbotone.medium.com/essential-recon-tools-8ec658cefe2
+https://medium.com/@hasharmujahid/exploiting-oauth-authentication-vulnerabilities-part-iii-e3db79c83359
+https://medium.com/@brucevizentin/how-to-create-a-port-scanner-with-bash-script-in-one-minute-e724a930f2a0
+https://infosecwriteups.com/403-bypass-lyncdiscover-microsoft-com-db2778458c33
+https://infosecwriteups.com/how-i-found-3-bug-bounties-in-a-day-c82fe023716e
