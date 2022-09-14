@@ -11927,3 +11927,16 @@ https://medium.com/@hasharmujahid/exploiting-oauth-authentication-vulnerabilitie
 https://medium.com/@brucevizentin/how-to-create-a-port-scanner-with-bash-script-in-one-minute-e724a930f2a0
 https://infosecwriteups.com/403-bypass-lyncdiscover-microsoft-com-db2778458c33
 https://infosecwriteups.com/how-i-found-3-bug-bounties-in-a-day-c82fe023716e
+https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability-0
+https://rashahacks.com/privacy-violation-in-chat-system-report-writeup-980b39748530?gi=fe3cfb7289cc
+https://0x01alka.medium.com/ssrf-g-vrp-for-5000-d08c8f515c95
+https://hackbotone.com/essential-recon-tools-8ec658cefe2?gi=893cc5e6a941
+https://www.legitsecurity.com/blog/github-privilege-escalation-vulnerability
+https://marcyoung.us/post/zuckerpunch/
+https://shinchina.in/blog/2022-09-07/$900-blind-xss.html
+https://infosecwriteups.com/exploiting-oauth-authentication-vulnerabilities-part-iii-e3db79c83359
+https://rashahacks.com/privacy-violation-in-chat-system-report-writeup-980b39748530
+https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pipeline-attacks
+https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code
+https://infosecwriteups.com/exploiting-oauth-authentication-vulnerabilities-part-iii-e3db79c83359?gi=8e7f9bde8321
+https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d
