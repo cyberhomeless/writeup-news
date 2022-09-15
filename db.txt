@@ -11940,3 +11940,7 @@ https://www.legitsecurity.com/blog/github-actions-that-open-the-door-to-cicd-pip
 https://www.legitsecurity.com/blog/bypassing-github-required-reviewers-to-submit-malicious-code
 https://infosecwriteups.com/exploiting-oauth-authentication-vulnerabilities-part-iii-e3db79c83359?gi=8e7f9bde8321
 https://0x01alka.medium.com/google-vrp-privilege-escalation-on-https-dialogflow-cloud-google-com-599af6c4516d
+https://medium.com/@milanjain7906/a-story-of-host-header-injection-c977adbf0889
+https://hackbotone.com/essential-recon-tools-8ec658cefe2?gi=25d3aaa82ff7
+https://rashahacks.com/privacy-violation-in-chat-system-report-writeup-980b39748530?gi=1b0bf36a654a
+https://medium.com/@capturethebugs/burp-suite-extensions-to-help-you-pentest-a37b6085d76f
