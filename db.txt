@@ -11972,3 +11972,10 @@ https://medium.com/@giedrius.saulenas/bug-bounty-challenge-update-1-bug-hacking-
 https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/
 https://infosecwriteups.com/how-i-found-my-first-vulnerability-bug-bounty-and-how-you-can-too-part-2-2e8681f4e3b7
 https://onekey.com/blog/security-advisory-netgear-routers-funjsq-vulnerabilities/
+https://medium.com/@nitishkumar3ar/how-i-found-the-stored-xss-and-clickjacking-5eac638d7ee6
+https://medium.com/@bgokjh/first-ctf-writeup-codys-first-blog-6447318e8323
+https://srahulceh.medium.com/bug-bounty-how-i-found-an-sensitive-information-disclosure-reconnaissance-542daf10dd19
+https://infosecwriteups.com/how-i-abused-the-file-upload-function-to-get-a-high-severity-vulnerability-in-bug-bounty-7cdcf349080b
+https://medium.com/@michaelbisuga/the-beautiful-art-of-finding-subdomains-99e178a253bf
+https://thilakesh0079.medium.com/cookie-parameter-to-xss-bounty-writeups-2-7bff96e798c9
+https://sl4x0.medium.com/all-about-path-directory-traversal-782d1d39e7e0
